@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rapaxa/HW-Incubator/static/css/main.f855e6bc.css",
+    "main.js": "/rapaxa/HW-Incubator/static/js/main.14acd43f.js",
+    "static/js/973.041e8339.chunk.js": "/rapaxa/HW-Incubator/static/js/973.041e8339.chunk.js",
+    "index.html": "/rapaxa/HW-Incubator/index.html",
+    "main.f855e6bc.css.map": "/rapaxa/HW-Incubator/static/css/main.f855e6bc.css.map",
+    "main.14acd43f.js.map": "/rapaxa/HW-Incubator/static/js/main.14acd43f.js.map",
+    "973.041e8339.chunk.js.map": "/rapaxa/HW-Incubator/static/js/973.041e8339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.14acd43f.js"
+  ]
+}
